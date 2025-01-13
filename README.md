@@ -4,7 +4,7 @@ The goal is to harness the capabilities of generative LLMs to efficiently identi
 By doing so, the programmer can increase productivity and code quality.
 
 ## Objectives
-* [*Debugging*](anonyd0go/holbertonschool-chatgpt-introduction/debugging):
+* [*Debugging*](holbertonschool-chatgpt-introduction/debugging):
     Utilize ChatGPT to diagnose and correct bugs in provided code samples accross multiple code languages.  The goal is to enhance problem solving skills and understand common pitfalls in diverse coding environments.
 * *Automation*:
     Automate mundane and repetetive tasks such as boilerplate code, documentation, or unit tests, freeing time to focus on the complex and creative aspects of software developement.
