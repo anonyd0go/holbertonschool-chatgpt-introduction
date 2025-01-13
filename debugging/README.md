@@ -1,0 +1,2 @@
+# Debugging with ChatGPT
+Understand the practical use of AI in identifying and solving coding errors.  This will enhance your problem-solving skills and understanding of common programming pitfalls in a diverse set of coding environments.
